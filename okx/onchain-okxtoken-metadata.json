@@ -1,6 +1,6 @@
 {
     "name": "OKX Staked Token",
-    "symbol": "OKSOL",
+    "symbol": "okSOL",
     "uri": "https://raw.githubusercontent.com/projectmetadata/token-metadata/refs/heads/main/okx/offchain-okxtoken-metadata.json",
     "seller_fee_basis_points": 0,
     "creators": null
