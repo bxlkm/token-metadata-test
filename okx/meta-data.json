@@ -1,0 +1,6 @@
+{
+    "name": "OKX Staked Token",
+    "symbol": "OKSOL",
+    "description": "MEV-Performance Optimized Liquid Staking Derivative from The okx earn validator.",
+    "image": "https://raw.githubusercontent.com/projectmetadata/token-metadata/refs/heads/main/okx/okx.png"
+}
