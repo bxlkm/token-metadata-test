@@ -1,0 +1,7 @@
+{
+    "name": "KM Staked Token",
+    "symbol": "kmSOL",
+    "uri": "https://raw.githubusercontent.com/bxlkm/token-metadata-test/refs/heads/main/lkm/offchain-lkmtoken-metadata.json",
+    "seller_fee_basis_points": 0,
+    "creators": null
+}
